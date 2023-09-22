@@ -1,1 +1,1 @@
-# Graph-Theory-Course-UFRJ
+# Graph Theory Course UFRJ
