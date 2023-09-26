@@ -109,8 +109,8 @@ class BuildExt(build_ext):
 setup(
     name=__package_name__,
     version=__version__,
-    author='gabriel-milan',
-    author_email='gabriel.gazola@poli.ufrj.br',
+    author='lucas-tavares',
+    author_email='lucas.tavares@poli.ufrj.br',
     description='Graphs implementation',
     long_description=long_description,
     long_description_content_type="text/markdown",
