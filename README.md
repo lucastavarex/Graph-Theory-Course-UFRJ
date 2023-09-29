@@ -1,6 +1,6 @@
 # Graph Theory Course
 
-### How to use library
+### Setting up project
 ```
 git clone git@github.com:lucastavarex/Graph-Theory-Course-UFRJ.git
 ```
@@ -18,6 +18,7 @@ pip3 install .
 ```
 pytest
 ```
+### Run 
 ```
 python3 .../tp1/script.py .../tp1/grafo_1.txt vectors
 ```
