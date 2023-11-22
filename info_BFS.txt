@@ -1,0 +1,1 @@
+Vertice: 1, pai: 0, nivel:0 //
